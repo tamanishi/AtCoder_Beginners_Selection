@@ -20,3 +20,6 @@
 [submodule "Card_Game_for_Two"]
 	path = Card_Game_for_Two
 	url = git@github.com:tamanishi/Card_Game_for_Two.git
+[submodule "Kagami_Mochi"]
+	path = Kagami_Mochi
+	url = git@github.com:tamanishi/Kagami_Mochi.git
