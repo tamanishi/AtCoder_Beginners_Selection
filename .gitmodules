@@ -14,3 +14,6 @@
 	path = Coins
     url = git@github.com:tamanishi/Coins.git
 
+[submodule "Some_Sums"]
+	path = Some_Sums
+	url = git@github.com:tamanishi/Some_Sums.git
