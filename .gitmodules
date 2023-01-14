@@ -7,3 +7,6 @@
 [submodule "Welcome_to_AtCoder"]
 	path = Welcome_to_AtCoder
 	url = git@github.com:tamanishi/Welcome_to_AtCoder.git
+[submodule "Shift_only"]
+	path = Shift_only
+	url = git@github.com:tamanishi/Shift_only.git
