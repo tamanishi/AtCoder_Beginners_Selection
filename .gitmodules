@@ -17,3 +17,6 @@
 [submodule "Some_Sums"]
 	path = Some_Sums
 	url = git@github.com:tamanishi/Some_Sums.git
+[submodule "Card_Game_for_Two"]
+	path = Card_Game_for_Two
+	url = git@github.com:tamanishi/Card_Game_for_Two.git
