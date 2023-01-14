@@ -12,8 +12,7 @@
 	url = git@github.com:tamanishi/Shift_only.git
 [submodule "Coins"]
 	path = Coins
-    url = git@github.com:tamanishi/Coins.git
-
+ 	url = git@github.com:tamanishi/Coins.git
 [submodule "Some_Sums"]
 	path = Some_Sums
 	url = git@github.com:tamanishi/Some_Sums.git
