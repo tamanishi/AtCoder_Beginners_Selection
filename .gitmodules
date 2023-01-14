@@ -1,0 +1,9 @@
+[submodule "Placing_Marbles"]
+	path = Placing_Marbles
+	url = git@github.com:tamanishi/Placing_Marbles.git
+[submodule "Product"]
+	path = Product
+	url = git@github.com:tamanishi/Product.git
+[submodule "Welcome_to_AtCoder"]
+	path = Welcome_to_AtCoder
+	url = git@github.com:tamanishi/Welcome_to_AtCoder.git
