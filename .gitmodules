@@ -23,3 +23,6 @@
 [submodule "Kagami_Mochi"]
 	path = Kagami_Mochi
 	url = git@github.com:tamanishi/Kagami_Mochi.git
+[submodule "Otoshidama"]
+	path = Otoshidama
+	url = git@github.com:tamanishi/Otoshidama.git
