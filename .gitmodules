@@ -26,3 +26,6 @@
 [submodule "Otoshidama"]
 	path = Otoshidama
 	url = git@github.com:tamanishi/Otoshidama.git
+[submodule "DayDream"]
+	path = DayDream
+	url = git@github.com:tamanishi/DayDream.git
