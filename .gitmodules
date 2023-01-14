@@ -10,3 +10,7 @@
 [submodule "Shift_only"]
 	path = Shift_only
 	url = git@github.com:tamanishi/Shift_only.git
+[submodule "Coins"]
+	path = Coins
+    url = git@github.com:tamanishi/Coins.git
+
